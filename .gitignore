@@ -21,7 +21,7 @@ lerna-debug.log*
 
 # IDEs and editors
 /.idea
-.project
+.projectt
 .classpath
 .c9/
 *.launch
